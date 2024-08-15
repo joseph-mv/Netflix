@@ -46,7 +46,7 @@ Contributions are welcome! Please follow these guidelines:
 
 **Acknowledgements:**
 
-* Thank you to the Express.js, Handlebars, MongoDB, and Razorpay communities for their excellent tools and resources.
+* Thank you to the React.js and TMDB Api communities for their excellent tools and resources.
 
 
 
